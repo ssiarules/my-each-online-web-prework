@@ -12,6 +12,7 @@ else
  array 
   
 end 
+end 
 
 
 #if block_given?
