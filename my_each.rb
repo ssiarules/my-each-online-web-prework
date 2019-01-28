@@ -23,6 +23,6 @@ if block_given?
  
     array
   else
-    puts "Hey! No block was given!"
+    array 
   end
 end
