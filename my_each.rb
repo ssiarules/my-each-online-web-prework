@@ -9,13 +9,13 @@ def my_each(collection) # put argument(s) here
     array 
 end 
 
-def hello_t(array)
-  i = 0
+#def hello_t(array)
+  #i = 0
  
-  while i < array.length
-    yield(array[i])
+ # while i < array.length
+   # yield(array[i])
     i = i + 1
-  end
+  #end
  
-  array
-end
+  #array
+#end
