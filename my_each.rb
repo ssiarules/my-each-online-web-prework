@@ -7,10 +7,10 @@ def my_each(collection) # put argument(s) here
     yield(array[i])
     i = i + 1
  end
-    array 
+   
  end 
 else 
-  puts array 
+  
 end 
 
 
