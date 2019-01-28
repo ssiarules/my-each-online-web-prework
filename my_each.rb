@@ -1,5 +1,6 @@
 def my_each(collection) # put argument(s) here
   # code here
+  if block_given?
   i = 0 
   
   while i < array.length
@@ -7,7 +8,10 @@ def my_each(collection) # put argument(s) here
     i = i + 1
  end
     array 
-end 
+ end 
+else 
+  puts 
+
 
 if block_given?
     i = 0
