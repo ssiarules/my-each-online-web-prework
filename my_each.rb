@@ -8,7 +8,7 @@ def my_each(collection) # put argument(s) here
     i = i + 1
  end 
 else 
-  puts array 
+ array 
   
 end 
 
